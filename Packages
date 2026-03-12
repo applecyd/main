@@ -1,0 +1,32 @@
+Package: com.applecyd.livelooker
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Саша Пересунько
+Installed-Size: 44
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.applecyd.livelooker_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5482
+MD5sum: e953b88df57b98807f268de9b139689c
+SHA1: b51c662a64065e889f76c20668c0e5a9ca548731
+SHA256: e5dd815ea68c616d96150a885f43a5bcfc12e226f6d73e1259256556a55cfbdb
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Саша Пересунько
+Name: LiveLooker
+
+Package: com.applecyd.respring
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Саша Пересунько
+Installed-Size: 52
+Depends: mobilesubstrate
+Filename: debs/com.applecyd.respring_1.0-1+debug_iphoneos-arm.deb
+Size: 4298
+MD5sum: 0b3c290347342c1ed7e760e58ba706ee
+SHA1: 80a7d0ea384d7f65f1e05cd7c6d416852e939c54
+SHA256: 0878cc8fc9955401fd9eca7a68beb109aed393980ad31d548463dd0862463da5
+Section: Utilities
+Description: Simple respring utility for iOS 6–9.
+Author: Саша Пересунько
+Name: AppleCyd Respring
+
