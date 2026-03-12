@@ -1,0 +1,8 @@
+Origin: AppleCyd Cool Repo
+Label: AppleCyd Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Official AppleCyd Repository for iOS 6-9 in the future for ios 10-14
